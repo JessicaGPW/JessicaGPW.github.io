@@ -34,6 +34,6 @@ Abra `SRC/index.html` no navegador. Não precisa de instalação.
 - [ ] Formatação de moeda com `Intl.NumberFormat`
 - [ ] Testes unitários da função de cálculo
 
-## Autoras
+## Autora
 
-**Jessica Baptista** · [GitHub](https://github.com/JessicaGPW) · [LinkedIn](https://www.linkedin.com/in/baptistajessica/) e **Thayná Pinheiro**
+**Jessica Baptista** · [GitHub](https://github.com/JessicaGPW) · [LinkedIn](https://www.linkedin.com/in/baptistajessica/)
