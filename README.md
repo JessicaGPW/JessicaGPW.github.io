@@ -4,7 +4,7 @@ Calculadora web que mostra o **retorno potencial** e o **lucro** de uma aposta m
 
 > **EN:** Small vanilla JS web app that calculates potential return and profit for accumulator bets (product of odds × stake).
 
-Criada em conjunto por **Jessica Baptista** e **Thayná Pinheiro**.
+Criada por **Jessica Baptista**.
 
 ## Como funciona
 
